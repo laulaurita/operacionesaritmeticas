@@ -19,7 +19,7 @@ mod=x%y
 p=x**y
 
 # diseño
-![Diagrama de flujo](diagrama.pn "Diagrama de flujo")
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
 
 # construccion
 

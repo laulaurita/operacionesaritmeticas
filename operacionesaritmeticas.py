@@ -1,16 +1,24 @@
 # input
-x= int(input("digite el valor de x:"))
-y= int(input("digite el valor de y:"))   
+X = int(input("porfavor digete un numero : "))
+Y = int(input("porfavor digite un numero : "))
 
- #pressing
-S= x+y
-r= x-y
-m= x*y
-d= x/y
-de= x//y
-mod= x%y
-p= x**y
+#prosecing
+S = (X+Y)
+R = (X-Y)
+M = (X * Y)
+D = (X / Y)
+DE = (X // Y)
+MOD = (X % Y)
+P = (X ** Y)
 
- #output
-print("Resultados")
-print("la suma de"+str(x)+"+"+str(y)+"es"+str(S))
+# output
+print(" Vamos a ver los resultados de las operaciones")
+print("------------------------------")
+print( "suma",S)
+print( "Resta",R)
+print( "Multiplicacion",M)
+print( "Divison",D)
+print( "Division entera",DE)
+print( "Modulo",MOD)
+print( "Potencia",P)
+print("------------------------------")
